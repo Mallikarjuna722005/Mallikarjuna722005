@@ -1,115 +1,152 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F0A1E,35:3B0764,70:6D28D9,100:8B5CF6&text=Mallikarjunaswamy%20C&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20AI%20%26%20Data%20Science&descAlignY=60"/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=MCA+AI+%26+Data+Science+Student;Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Python+Developer;Always+Learning+Something+New"/>
-<a href="https://www.linkedin.com/in/mallikarjunaswamy-c-5717a0265/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Mallikarjuna722005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:mallikarjunaswamy.c112005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Mallikarjuna722005&style=for-the-badge&color=6D28D9"/>
-<img src="https://img.shields.io/github/followers/Mallikarjuna722005?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/Mallikarjuna722005?affiliations=OWNER&style=for-the-badge"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F0A1E,40:4C1D95,75:6D28D9,100:8B5CF6&text=Mallikarjunaswamy%20C&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20|%20AI%20&%20Data%20Science&descAlignY=60"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=MCA+AI+%26+Data+Science;Aspiring+Software+Engineer;Python+Developer;Machine+Learning+Enthusiast;Always+Learning"/>
+
+# Mallikarjunaswamy C
+
+[![GitHub](https://img.shields.io/badge/GitHub-Mallikarjuna722005-181717?style=for-the-badge&logo=github)](https://github.com/Mallikarjuna722005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mallikarjunaswamy-c-5717a0265/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:mallikarjunaswamy.c112005@gmail.com)
+
 </div>
+
 ---
-🧬 About
-I am Mallikarjunaswamy C, an MCA student specializing in Artificial Intelligence & Data Science at Amrita Vishwa Vidyapeetham, Mysore. I enjoy building AI-powered applications, solving software engineering problems, and developing practical machine learning solutions. My interests include Computer Vision, Data Analytics, Full Stack Development, and Open Source.
-Open To
-Software Engineering Internships
-AI / ML Internships
-Open Source Contributions
-Research Collaborations
+
+# About
+
+Aspiring Software Engineer pursuing **MCA in Artificial Intelligence & Data Science** at Amrita Vishwa Vidyapeetham. Passionate about Python, Machine Learning, Data Analysis, Computer Vision, and building scalable software solutions.
+
+## Open To
+
+- Software Engineering
+- AI / ML Internships
+- Open Source
+- Research
+
 ---
-⚡ Tech Stack
-Languages
+
+# Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,r,html,css,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,mysql,tensorflow,git,github,vscode,linux"/>
 </p>
-AI / ML
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,git,github,vscode,linux&theme=dark"/>
-</p>
+
 ---
-🤖 AI / ML Expertise
-Domain	Proficiency	Details
-Machine Learning	████████░░	Model Building
-Computer Vision	███████░░░	CNN
-Data Analytics	████████░░	Pandas, NumPy
-SQL	████████░░	Database Queries
-Python	█████████░	Automation & AI
+
+# AI / ML Expertise
+
+| Domain | Skills |
+|---|---|
+| Machine Learning | Model Development |
+| Deep Learning | CNN, TensorFlow |
+| Data Analytics | Pandas, NumPy, Matplotlib |
+| Programming | Python, SQL, C |
+
 ---
-🚀 Featured Projects
+
+# Projects
+
 <details>
-<summary><b>🥒 Cucumber Growth Stage Detection</b></summary>
-Attribute	Details
-Stack	Python, TensorFlow, CNN
-Impact	Agriculture AI
-Repository	Add Repository URL
-AI model for automated cucumber growth stage recognition using Convolutional Neural Networks.
+<summary><b>Cucumber Growth Stage Detection</b></summary>
+
+CNN-based crop growth stage detection system using TensorFlow.
+
 </details>
+
 <details>
-<summary><b>🌾 AgroSmart – Smart Farm Management System</b></summary>
-Java-based farm management application for agriculture workflows.
+<summary><b>AgroSmart - Smart Farm Management System</b></summary>
+
+Java application for agriculture management.
+
 </details>
+
 <details>
-<summary><b>📡 Wireless Transmission Model</b></summary>
-Academic IoT project demonstrating wireless communication.
+<summary><b>Wireless Transmission Model</b></summary>
+
+Academic IoT communication prototype.
+
 </details>
+
 ---
-🏆 Certifications
-Oracle Database Administration
-Data Analytics Job Simulation
-Data Fundamentals
-Technology Job Simulation
-Virtual Internship in Data Science
+
+# Certifications
+
+- Oracle Database Administration
+- Data Analytics Job Simulation
+- Data Fundamentals
+- Technology Job Simulation
+- Virtual Internship in Data Science
+
 ---
-📊 GitHub Analytics
+
+# GitHub Analytics
+
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mallikarjuna722005&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mallikarjuna722005&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mallikarjuna722005&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mallikarjuna722005&theme=tokyonight"/>
 </p>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjuna722005&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjuna722005&layout=compact&theme=tokyonight"/>
 </p>
+
 ---
-🏅 GitHub Trophies
+
+# GitHub Trophies
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mallikarjuna722005&theme=algolia&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mallikarjuna722005&theme=algolia"/>
 </p>
+
 ---
-📈 Contribution Activity
+
+# Contribution Activity
+
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mallikarjuna722005&theme=tokyo-night"/>
 </p>
+
 ---
-🐍 Contribution Snake
-```markdown
-https://github.com/Mallikarjuna722005/Mallikarjuna722005/blob/output/github-contribution-grid-snake-dark.svg
+
+# Snake
+
+```text
+.github/workflows/snake.yml
 ```
+
 ---
-🎯 Current Focus
+
+# Current Focus
+
 ```yaml
 learning:
-  - Advanced Machine Learning
   - Full Stack Development
-  - DSA
-
+  - Advanced Machine Learning
 building:
   - AI Projects
-  - Java Projects
-
+  - Java Applications
 exploring:
-  - Cloud
   - MLOps
-
+  - Cloud
 open_to:
-  - Software Engineering Roles
-  - AI / ML Internships
+  - Software Engineering
+  - AI/ML Roles
 ```
+
 ---
-🤝 Connect
-📧 mallikarjunaswamy.c112005@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/mallikarjunaswamy-c-5717a0265/
-💻 GitHub: https://github.com/Mallikarjuna722005
+
+# Connect
+
+- Email: mallikarjunaswamy.c112005@gmail.com
+- GitHub: https://github.com/Mallikarjuna722005
+- LinkedIn: https://www.linkedin.com/in/mallikarjunaswamy-c-5717a0265/
+
 ---
-<p align="center"><i>"Learning today. Building tomorrow. Engineering for impact."</i></p>
+
+> "Building intelligent software through continuous learning."
+
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:8B5CF6,50:6D28D9,100:0F0A1E"/>
 </p>
