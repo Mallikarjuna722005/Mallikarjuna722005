@@ -1,0 +1,42 @@
+# Save this file as:  .github/workflows/snake.yml
+# in the profile repository (Mallikarjuna722005/Mallikarjuna722005).
+#
+# It generates the contribution-snake SVGs once a day and publishes them
+# to a branch named "output". The README reads the images from that branch.
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"      # daily at 00:00 UTC
+  workflow_dispatch:          # lets you run it manually from the Actions tab
+
+# Never run two copies at once; a newer run replaces an older one.
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+permissions:
+  contents: write             # required to push the "output" branch
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVGs from the contribution graph
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publish SVGs to the "output" branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
