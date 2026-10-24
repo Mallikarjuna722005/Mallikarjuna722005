@@ -2,9 +2,13 @@
 <!-- ==================== ANIMATED HEADER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:050D2D,60:0A1E6E,100:00BFFF&height=260&section=header&text=Mallikarjunaswamy%20C&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=17&descColor=00BFFF" width="100%" alt="Mallikarjunaswamy C — AI and Data Science"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:050D2D,60:0A1E6E,100:00BFFF&height=260&section=header&text=Mallikarjunaswamy%20C&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Machine%20Learning%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Cloud%20Engineer&descAlignY=58&descSize=18&descColor=00BFFF" alt="Header"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=MCA+(AI+%26+Data+Science)+Student;AI+%26+Machine+Learning+Enthusiast;AI/ML+ENGINEER;Generative+AI+Engineer;Cloud+Engineer;Software+Development+Engineer(SDE);Full+Stack+Web+Developer;Python+Developer;Building+Real-World+AI+Solutions"/>
+</p>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=MCA+(AI+%26+Data+Science)+Student;Python+%26+Machine+Learning+Enthusiast;Exploring+Computer+Vision+%26+Deep+Learning;Building+Practical+Data+Science+Projects;Learning+by+Building+Real-World+Solutions" alt="Animated introduction"/>
 </p>
