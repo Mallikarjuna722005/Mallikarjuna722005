@@ -1,162 +1,176 @@
 
-<!--
-  GitHub Profile README
-  Account: Mallikarjuna722005
-  Theme: Midnight Navy + Electric Cyan
-  Before publishing: verify all links and project descriptions.
--->
+<!-- ==================== ANIMATED HEADER ==================== -->
 
-<!-- ==================== HERO ==================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:050D2D,60:0A1E6E,100:00BFFF&height=260&section=header&text=Mallikarjunaswamy%20C&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=17&descColor=00BFFF" width="100%" alt="Mallikarjunaswamy C — AI and Data Science"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=MCA+(AI+%26+Data+Science)+Student;Python+%26+Machine+Learning+Enthusiast;Exploring+Computer+Vision+%26+Deep+Learning;Building+Practical+Data+Science+Projects;Learning+by+Building+Real-World+Solutions" alt="Animated introduction"/>
+</p>
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:071426,50:123B70,100:00D4FF&text=Mallikarjunaswamy%20C&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=58&descSize=16&animation=fadeIn"
-    width="100%"
-    alt="Mallikarjunaswamy C — AI and Data Science"
-  />
+<br/>
 
-  <a href="https://readme-typing-svg.demolab.com">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=45D6FF&center=true&vCenter=true&width=650&lines=MCA+Student+%7C+AI+%26+Data+Science;Exploring+Machine+Learning+%26+Computer+Vision;Building+Python+Projects;Learning+by+Building+Real+Solutions"
-      alt="Animated introduction"
-    />
+<!-- ==================== PROFILE BADGES ==================== -->
+
+<p align="center">
+  <a href="https://github.com/Mallikarjuna722005">
+    <img src="https://img.shields.io/github/followers/Mallikarjuna722005?label=Followers&style=for-the-badge&color=00BFFF&labelColor=0A1E6E&logo=github" alt="GitHub followers"/>
   </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Mallikarjuna722005&label=Profile%20Views&color=00BFFF&style=for-the-badge&labelColor=0A1E6E" alt="Profile views"/>
+  &nbsp;
+  <a href="https://github.com/Mallikarjuna722005?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-Explore-00BFFF?style=for-the-badge&labelColor=0A1E6E&logo=github" alt="Explore repositories"/>
+  </a>
+</p>
 
-  <p>
-    <a href="https://github.com/Mallikarjuna722005">
-      <img src="https://img.shields.io/badge/GitHub-Mallikarjuna722005-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-    </a>
-    <a href="https://www.linkedin.com/in/mallikarjunaswamy-c-5717a0265/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:mallikarjunaswamy.c112005@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Mallikarjuna722005&style=flat-square&color=00D4FF&label=PROFILE+VIEWS" alt="Profile views"/>
-    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data%20Science-123B70?style=flat-square" alt="Focus"/>
-    <img src="https://img.shields.io/badge/Location-Mysuru%2C%20India-123B70?style=flat-square" alt="Location"/>
-  </p>
-
-</div>
+<br/>
 
 ---
 
-## 👋 About Me
+<!-- ==================== CAREER INTERESTS ==================== -->
 
-I'm **Mallikarjunaswamy C**, an MCA student specialising in **Artificial Intelligence and Data Science** at Amrita Vishwa Vidyapeetham, Mysuru.
+<h2 align="center">🎯 CAREER INTERESTS</h2>
 
-I enjoy exploring how programming, machine learning, and data analysis can solve practical problems. My academic interests include computer vision, agricultural technology, and building reliable software solutions.
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Development-Interested-00BFFF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=050D2D" alt="Software development"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-Developing%20Skills-00BFFF?style=for-the-badge&logo=python&logoColor=white&labelColor=050D2D" alt="Python"/>
+</p>
 
-- 🎓 **Education:** MCA in Artificial Intelligence and Data Science
-- 🐍 **Programming:** Python, C, R, and SQL
-- 🤖 **Interests:** Machine Learning, CNNs, Computer Vision, and Data Analysis
-- 🌱 **Currently building:** Python practice projects and academic project work
-- 🎯 **Career goal:** Grow as a software developer and contribute to practical AI/ML solutions
-- 🤝 **Open to:** Learning opportunities, meaningful collaborations, and suitable internships
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-00BFFF?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=050D2D" alt="Machine learning"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Data%20Science-Learning-00BFFF?style=for-the-badge&logo=databricks&logoColor=white&labelColor=050D2D" alt="Data science"/>
+</p>
 
-I believe in learning by building, improving through experimentation, and documenting what I learn along the way.
+<br/>
 
 ---
 
-## 🧰 Technical Skills
+## 🧑‍💻 About Me
 
-### 💻 Programming Languages
+```yaml
+Name        : Mallikarjunaswamy C
+Degree      : MCA — Artificial Intelligence & Data Science
+Institution : Amrita Vishwa Vidyapeetham, Mysuru
+Graduation  : Expected 2027
+Location    : Mysuru, Karnataka, India
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+Background  : BCA — Data Science
+Interests   : Artificial Intelligence · Machine Learning
+              Computer Vision · Data Analysis · Software Development
+
+Programming : Python · C · R · SQL
+AI / ML     : Machine Learning · CNN · TensorFlow
+Data Tools  : NumPy · Pandas · Matplotlib
+
+Currently   : Practising Python and exploring AI/ML concepts
+Exploring   : Deep Learning · Computer Vision · Practical AI Applications
+
+Mindset     : Curious · Consistent · Analytical · Growth-Oriented
+Goal        : Build useful software and intelligent solutions
+```
+
+> I enjoy turning ideas into practical projects, strengthening my programming fundamentals, and exploring how AI and data science can solve real-world problems.
+
+<br/>
+
+<!-- ==================== TECH STACK ==================== -->
+
+---
+
+## ⚡ Tech Stack
+
+### 🐍 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c&theme=dark" alt="Python and C"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-### 🧠 AI, Machine Learning & Data Science
+### 🌐 Web Development
 
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Research-0B7285?style=for-the-badge" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/CNN-Computer%20Vision-0B7285?style=for-the-badge" alt="CNN"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML and CSS"/>
+</p>
+
+### 🤖 AI / ML & Data Science
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" alt="AI and machine learning tools"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
 </p>
 
-### 🏗️ Computer Science Fundamentals
-
-<p>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-334155?style=flat-square" alt="Data Structures and Algorithms"/>
-  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-334155?style=flat-square" alt="Object-oriented programming"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-334155?style=flat-square" alt="Problem solving"/>
-</p>
-
-### 🌐 Web Fundamentals
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
 ### 🛠️ Tools & Development
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" alt="Development tools"/>
 </p>
+
+### 🧠 Computer Science Fundamentals
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0A1E6E?style=for-the-badge" alt="Data structures and algorithms"/>
+  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-0A1E6E?style=for-the-badge" alt="Object-oriented programming"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-0A1E6E?style=for-the-badge" alt="Problem solving"/>
+</p>
+
+<br/>
 
 ---
 
+<!-- ==================== FEATURED PROJECTS ==================== -->
+
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🥒 Cucumber Growth Stage Detection
 
-**An academic computer vision project**
+<a href="https://github.com/Mallikarjuna722005/Research">
+  <img src="https://img.shields.io/badge/Research-Computer%20Vision-00BFFF?style=flat-square" alt="Computer vision research"/>
+</a>
 
-Exploring image-based classification of cucumber growth stages using deep learning concepts.
+An academic project exploring image-based cucumber growth-stage classification using machine learning and deep learning concepts.
 
-**Research scope**
-- Flowering, pollination, mature, ripen, and overripen stages
-- Image preprocessing and augmentation concepts
-- CNN-based classification approaches
-- Exploration of transfer-learning architectures
+**Focus areas**
+- Growth-stage classification
+- Image preprocessing and augmentation
+- CNN-based approaches
+- Exploration of transfer learning
 
-**Technologies**
+**Technologies:** Python, TensorFlow/Keras, CNN
 
-`Python` `TensorFlow/Keras` `CNN` `Computer Vision`
-
-[📂 View Research Repository](https://github.com/Mallikarjuna722005/Research)
+[Explore Repository →](https://github.com/Mallikarjuna722005/Research)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🐍 Python Practice Notebooks
 
-**Programming fundamentals through practice**
+<a href="https://github.com/Mallikarjuna722005/APP">
+  <img src="https://img.shields.io/badge/Python-Programming%20Practice-00BFFF?style=flat-square&logo=python&logoColor=white" alt="Python practice"/>
+</a>
 
-A collection of Python exercises and scenario-based programming problems.
+A collection of programming exercises and scenario-based problems designed to strengthen Python fundamentals.
 
-**Learning areas**
-- Functions and problem solving
-- Exception handling
-- Lambda expressions, `map`, and `filter`
-- NumPy operations and array manipulation
-- Pattern-based programming exercises
+**Focus areas**
+- Functions and exception handling
+- Lambda, map, and filter
+- NumPy operations
+- Pattern problems
+- Scenario-based exercises
 
-**Technologies**
+**Technologies:** Python, NumPy, Jupyter Notebook
 
-`Python` `NumPy` `Jupyter Notebook`
-
-[📂 Explore Python Notebooks](https://github.com/Mallikarjuna722005/APP)
+[Explore Repository →](https://github.com/Mallikarjuna722005/APP)
 
 </td>
 </tr>
@@ -165,159 +179,184 @@ A collection of Python exercises and scenario-based programming problems.
 
 ### 🌾 AgroSmart — Smart Farm Management
 
-**Agriculture-focused academic project**
+An academic project focused on applying software concepts to agricultural activities and farm-related information management.
 
-A software-oriented project focused on supporting agricultural activities and organising farm-related information.
+**Focus areas**
+- Agriculture-related workflows
+- Information organisation
+- Software-based problem solving
 
-**Project focus**
-- Agricultural workflow support
-- Structured information management
-- Applying programming concepts to farming use cases
-
-**Status:** Academic project; public implementation details may be limited.
+**Status:** Academic project; implementation details should be verified before publication.
 
 </td>
 <td width="50%" valign="top">
 
 ### 📡 Wireless Transmission Model
 
-**Academic coursework project**
+An academic coursework project related to wireless data transmission, implementation, and analysis.
 
-A coursework project involving wireless data transmission, implementation, and analysis.
-
-**Project focus**
+**Focus areas**
 - Wireless communication concepts
-- Academic implementation
-- Technical analysis and learning
+- Technical implementation
+- Academic analysis
 
-**Status:** Academic project; detailed public documentation is not currently linked.
+**Status:** Coursework project.
 
 </td>
 </tr>
 </table>
 
-</div>
-
-> Project descriptions reflect the available academic and repository information. Implementation details, evaluation results, and demonstrations should be added only when verified.
+<br/>
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | Year |
-|---|---|---|
-| MCA — Artificial Intelligence & Data Science | Amrita Vishwa Vidyapeetham, Mysuru | Expected 2027 |
-| BCA — Data Science | Amrita Vishwa Vidyapeetham, Mysuru | 2025 |
+<table width="100%">
+<tr>
+<th align="left">Degree</th>
+<th align="left">Institution</th>
+<th align="left">Year</th>
+</tr>
+<tr>
+<td>MCA — Artificial Intelligence & Data Science</td>
+<td>Amrita Vishwa Vidyapeetham, Mysuru</td>
+<td>Expected 2027</td>
+</tr>
+<tr>
+<td>BCA — Data Science</td>
+<td>Amrita Vishwa Vidyapeetham, Mysuru</td>
+<td>2025</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
 ## 🏆 Achievements & Activities
 
-- 🥋 **State-Level Karate Competition:** Second prize.
-- 🗣️ **Debate Team:** Participated as a team member.
-- 💻 **Continuous Learning:** Practising programming, data analysis, and machine learning concepts.
-- 🌱 **Agricultural Interest:** Interested in technology-driven solutions for agricultural challenges.
+- 🥋 **State-Level Karate Competition** — Second prize.
+- 🗣️ **Debate Team** — Team member.
+- 🌱 **Agricultural Interests** — Exploring technology applications for agriculture.
+- 💡 **Continuous Learning** — Strengthening programming, data analysis, and AI/ML fundamentals.
+
+<br/>
 
 ---
 
 ## 📜 Certifications & Training
 
-The following credentials are listed in my academic resume.
-
-| Credential | Area |
+| Credential | Domain |
 |---|---|
 | Oracle Database Administration | Database administration |
 | Data Analytics Job Simulation | Data analytics |
 | Data Fundamentals | Data concepts |
-| Technology Job Simulation | Technology and professional skills |
+| Technology Job Simulation | Technology |
 | Virtual Internship in Data Science | Data science |
 
-*Credential issuers, verification links, and completion details can be added when available.*
+*Verification links and credential issuers can be added when available.*
+
+<br/>
 
 ---
+
+<!-- ==================== GITHUB ANALYTICS ==================== -->
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mallikarjuna722005&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=050D2D&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjuna722005&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=050D2D&title_color=00BFFF&text_color=FFFFFF" alt="Top languages in public repositories"/>
+</p>
 
-<a href="https://github.com/Mallikarjuna722005">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mallikarjuna722005&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=071426&title_color=45D6FF&icon_color=45D6FF&text_color=E6EDF3" alt="GitHub statistics"/>
-</a>
+<p align="center">
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mallikarjuna722005&theme=tokyonight&hide_border=true&background=050D2D&ring=00BFFF&fire=FF6B00&currStreakLabel=00BFFF" alt="GitHub contribution streak"/>
+</p>
 
-<a href="https://github.com/Mallikarjuna722005">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjuna722005&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=071426&title_color=45D6FF&text_color=E6EDF3" alt="Most used public repository languages"/>
-</a>
+### 🏅 GitHub Trophies
+
+<p align="center">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Mallikarjuna722005&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies"/>
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mallikarjuna722005&theme=tokyo-night&hide_border=true&bg_color=050D2D&color=00BFFF&line=0A66C2&point=FFFFFF&area=true" alt="GitHub contribution graph"/>
+</p>
 
 <br/>
-
-<a href="https://github.com/Mallikarjuna722005">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mallikarjuna722005&theme=tokyonight&hide_border=true&background=071426&ring=45D6FF&fire=FF9D5C&currStreakLabel=45D6FF" alt="GitHub contribution streak"/>
-</a>
-
-<br/>
-
-<a href="https://github-profile-trophy.vercel.app/?username=Mallikarjuna722005">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Mallikarjuna722005&theme=algolia&no-frame=true&no-bg=true&margin-w=5&margin-h=5&column=6" alt="GitHub profile trophies"/>
-</a>
-
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/Mallikarjuna722005">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mallikarjuna722005&bg_color=071426&color=45D6FF&line=3978FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
-</a>
-
-</div>
 
 ---
 
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+
 ## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mallikarjuna722005/Mallikarjuna722005/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mallikarjuna722005/Mallikarjuna722005/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/Mallikarjuna722005/Mallikarjuna722005/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mallikarjuna722005/Mallikarjuna722005/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mallikarjuna722005/Mallikarjuna722005/output/github-snake.svg"/>
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Mallikarjuna722005/Mallikarjuna722005/output/github-snake.svg" width="100%"/>
-</picture>
+<br/>
 
-</div>
+---
+
+## 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Practice-00BFFF?style=for-the-badge&logo=python&logoColor=white&labelColor=050D2D" alt="Python practice"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-00BFFF?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=050D2D" alt="Machine learning"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-Exploring-00BFFF?style=for-the-badge&logo=opencv&logoColor=white&labelColor=050D2D" alt="Computer vision"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-Learning-0A1E6E?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep learning"/>
+  <img src="https://img.shields.io/badge/Software%20Development-Growing-0A1E6E?style=for-the-badge&logo=github&logoColor=white" alt="Software development"/>
+</p>
+
+<br/>
 
 ---
 
 ## 🌐 Languages
 
-- **Kannada:** Native
-- **English:** Professional working proficiency
-- **Tamil:** Limited working proficiency
+<p align="center">
+  <img src="https://img.shields.io/badge/Kannada-Native-00BFFF?style=for-the-badge" alt="Kannada"/>
+  <img src="https://img.shields.io/badge/English-Professional%20Working%20Proficiency-00BFFF?style=for-the-badge" alt="English"/>
+  <img src="https://img.shields.io/badge/Tamil-Limited%20Working%20Proficiency-00BFFF?style=for-the-badge" alt="Tamil"/>
+</p>
+
+<br/>
 
 ---
 
+<!-- ==================== CONTACT ==================== -->
+
 ## 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Mallikarjuna722005">
+    <img src="https://img.shields.io/badge/GitHub-Mallikarjuna722005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mallikarjunaswamy-c-5717a0265/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mallikarjunaswamy.c112005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-<a href="https://github.com/Mallikarjuna722005">
-  <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/mallikarjunaswamy-c-5717a0265/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:mallikarjunaswamy.c112005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<p align="center">
+  <i>Building skills, exploring ideas, and turning knowledge into practical solutions.</i>
+</p>
 
-<br/><br/>
-
-*Always learning. Always building. Turning ideas into practical solutions.*
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D4FF,50:123B70,100:071426" width="100%" alt="Decorative footer"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,40:0A66C2,70:0A1E6E,100:000000&height=130&section=footer&text=Keep%20Learning%20%7C%20Keep%20Building&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" alt="Footer"/>
+</p>
